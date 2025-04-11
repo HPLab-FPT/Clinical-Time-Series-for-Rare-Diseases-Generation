@@ -2,6 +2,16 @@
 
 Code for the paper: *Multi-Label Clinical Time-Series Generation via Conditional GAN*
 
+Original paper: https://github.com/luchang-cs/mtgan
+
+## Author
+
+Tuan NGUYEN, Thanh TRAN, Uyen NGUYEN, Nhu DUONG, Huy PHAN
+
+## Dataset
+
+https://github.com/HPLab-FPT/Clinical-Time-Series-for-Rare-Diseases-Generation/tree/main/data/mimic3/raw
+
 ## Commands
 
 ### Preprocess Data
